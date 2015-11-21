@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.ibm.mqjms">
+    <CLASSES>
+      <root url="jar:///opt/mqm/java/lib/com.ibm.mqjms.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+November 21, 2015 1:52:49 AM IST[main] com.ibm.msg.client.wmq.common.internal.WMQDestination
+An unknown property 'com.ibm.mq.MQMessage@74571b57' with value 'com.ibm.mq.MQPutMessageOptions@608532d1' was set on the destination property context.
+
+EXPLANATION:
+The property 'com.ibm.mq.MQMessage@74571b57' was not recognised - it may be a custom property.
+
+ACTION:
+Ensure that this is intended to be a custom property.
+--------------------------------------------------------------------
+November 21, 2015 1:53:40 AM IST[main] com.ibm.msg.client.wmq.common.internal.WMQDestination
+An unknown property 'com.ibm.mq.MQMessage@24ac5a9a' with value 'com.ibm.mq.MQPutMessageOptions@2d1552dd' was set on the destination property context.
+
+EXPLANATION:
+The property 'com.ibm.mq.MQMessage@24ac5a9a' was not recognised - it may be a custom property.
+
+ACTION:
+Ensure that this is intended to be a custom property.
+--------------------------------------------------------------------
